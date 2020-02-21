@@ -1,0 +1,14 @@
+{
+    "name": "exi/simple-schedule",
+    "authors": [
+        {
+            "name": "Exi",
+            "email": "mr.d.orekhov@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.30",
+        "symfony/process": "^4.4",
+        "mtdowling/cron-expression": "^1.2"
+    }
+}

@@ -17,7 +17,7 @@ class Schedule
     /**
      * Add a new callback event to the schedule.
      *
-     * @param  string $callback
+     * @param  callable $callback
      * @param  array  $parameters
      *
      * @return \SimpleSchedule\Event
